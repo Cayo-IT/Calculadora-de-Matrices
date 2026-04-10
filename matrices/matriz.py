@@ -20,4 +20,4 @@ class Matriz:
               raise IndexError(f"Indice para fila fuera de rango! ({index})")
          return self.values[index]
     
-    
+    #rebase github
